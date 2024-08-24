@@ -1,0 +1,3 @@
+Hello! how are you myself abhay chand .
+welcome to my text.
+here we will see different operation of file handling.
