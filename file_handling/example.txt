@@ -1,3 +1,2 @@
-Hello! how are you myself abhay chand .
-welcome to my text.
-here we will see different operation of file handling.
+Hello! here is new edited :)new filw Append operation taking place 
+ hey now we are adding line 
